@@ -1,8 +1,9 @@
 package com.concurrent.theadsafety;
 
 
+
+
 public class LazyInit {
-	
 	private Object a = null;
 	
 	public Object getInstance() {
