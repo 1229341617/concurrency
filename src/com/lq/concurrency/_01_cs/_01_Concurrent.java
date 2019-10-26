@@ -1,4 +1,4 @@
-package com.lq.concurrency.cs;
+package com.lq.concurrency._01_cs;
 
 public class _01_Concurrent {
 	
